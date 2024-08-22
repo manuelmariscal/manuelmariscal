@@ -1,7 +1,7 @@
 ![MatrixProfile](https://github.com/manuelmariscal/manuelmariscal/blob/main/matrix.svg)
 
 - 👋 Hi, I’m @manuelmariscal
-I´m a Biomedical Engineer, currently working with cloud computing services, and I'm also an AI enthusiast. At the moment being a Cloud Engineer at @iNBest-cloud
+I´m a MCA - Master's on Applied Compute Student, currently working with cloud computing services, and I'm also an AI enthusiast. At the moment being a Cloud Automation Team Leader at @iNBest-cloud
 
 ### Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

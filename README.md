@@ -29,6 +29,6 @@ Currently working as a Software Developer @ Oracle.
 ### 📫 **Let's connect!**
 Feel free to reach out or collaborate:
 - [GitHub](https://github.com/manuelmariscal)
-- [LinkedIn](https://www.linkedin.com/in/victormariscal/) *(agrega tu link aquí si tienes uno)*
+- [LinkedIn](https://www.linkedin.com/in/victormariscal/) 
 
 

@@ -7,9 +7,9 @@ I’m currently pursuing a **Master's of Science in Applied Compute**, specializ
 I'm passionate about research, constantly exploring new technologies and coding projects purely out of curiosity and interest.
 
 Currently working as a Software Developer @ Oracle.
----
 
 ### 🛠️ **Technical Stack & Skills:**
+---
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
